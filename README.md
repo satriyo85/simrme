@@ -25,8 +25,6 @@ Alamat dasar (`BASE_URL`) dideteksi otomatis, jadi folder boleh diberi nama lain
 
 ## Akun contoh
 
-Kata sandi semuanya `password123`. Gantilah lewat menu profil (kanan atas) sebelum dipakai di kelas bersama.
-
 | Username      | Peran               | Hak akses utama                                             |
 |---------------|---------------------|-------------------------------------------------------------|
 | `admin`       | Administrator       | Semua menu, master data, pengguna, audit log                |
